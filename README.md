@@ -41,4 +41,4 @@
 
 1. Clone the repository:
 ```bash
-git clone <(https://github.com/Nilakshana23/Resume-Builder-App.git )>
+git clone <https://github.com/Nilakshana23/Resume-Builder-App.git>
